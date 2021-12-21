@@ -1,0 +1,97 @@
+Account No,Account Status,SOLID Package,Breeze Package,LTE CPE,WiMAX CPE,Name,Address,Number,IP Address,Sales,Quantity,Discount,Profit
+A1956,Active,MonthlyMAX,Suspend,Installed,Customer Owns,Tinashe Tawengwa,"6 Tutbury Close, Houghton Park",263772413160,41.82.213.26,15.552,3,0.2,5.4432
+A8213,Active,MonthlyMAX,MonthlyMAX,Installed,No WiMAX,Prosper Masunda,"1086 Mutaradzi Close, Houghton Park",772392520/0772950708,41.85.213.101,71.372,2,0.3,-1.0196
+A8423,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Blessing Muchenga,42 Old Highfield Road,263734527455,41.85.213.102,29.472,3,0.2,9.9468
+A2025,Active,SkyMAX,SkyMAX,Installed,Customer Owns,Shaun Desouza,"2 Finneran Rd, Ardbennie",263772311299,41.85.213.12,147.168,4,0.2,16.5564
+A5579,Active,TeamMAX,TeamMAX,Installed,Pending Decommission,Linah Chisale,"1 Tettenhall Flats,168 K. Nkrumah Ave,Harare",263713913260,41.85.213.15,95.616,2,0.2,9.5616
+A8673 ,Lead,Lead,TeamMAX,Installed,No WiMAX,Sean Dhlakama,"13 Block 5 Odzi Flats, Eastlea",263775052982,41.85.213.17,19.05,3,0,8.763
+A7402,Lead,Lead,TeamMAX,Installed,Pending Decommission,Eric Marijeni,885 Dabenham Close Strathaven,263774410041,41.85.213.18,1.248,3,0.8,-1.9344
+A2729,Suspended,MusheMAX,Suspend,Installed,Pending Decommission,Dr Bwakura,132 Nelson Mandela Ave & Cnr 6th Street,263773973876,41.85.213.20,9.708,3,0.6,-5.8248
+C900015,Active,SkyMAX,SkyMAX,Installed,Pending Decommission,Civil Protection ,7th Floor Makombe Building,263773420090,41.85.213.21,27.24,3,0.2,2.724
+A2499,Suspended,SkyMAX,SkyMAX,Installed,Customer Owns,Chris Mujuru,"7403 Mangwende drive east, Old Highfields",263719525250,41.85.213.22,230.376,3,0.2,-48.9549
+A1911,Active,MusheMAX,MusheMAX,Installed,Customer Owns,sawunyama,"4516 Mangwende Drive, Old Highfields",0782728860/ 734587137,41.85.213.23,301.96,2,0,33.2156
+A2461,Active,MonthlyMAX,MonthlyMAX,Installed,Pending Decommission,Zuva Peacocke,41/43 Samora Machel Avenue,263772309957,41.85.213.24,19.99,1,0,6.7966
+A2686,Active,TeamMAX,TeamMAX,Installed,Decommissioned,Lorraine Nyahwa,26B Seke Road Hatfield,263772380929,41.85.213.27,6.16,2,0,2.9568
+A5561,Active,MusheMAX,MonthlyMAX,Installed,Decommissioned,Dr Trevor Mthombeni,Flat 29 Nurses Home Harare Hospital,263718199412,41.85.213.28,5.682,1,0.7,-3.788
+A1734,Active,MusheMAX,MusheMAX,Installed,Pending Decommission,Masamha Johnsair,"4 Tixhall Close, Houghton Park",263733362275,41.85.213.29,96.53,7,0,40.5426
+A1939,Active,MusheMAX,MusheMAX,Installed,Decommissioned,Dr Saunyama*,Flat D3 Doctors Flats Parirenyatwa,263772954123,41.85.213.3,51.312,3,0.2,17.9592
+A8670,Lead,Lead,TeamMax,Installed,Decommissioned,Maxwell Mandiringana,"7796 Belvedere West, Harare",263731570005,41.85.213.31,74.112,8,0.2,17.6016
+A8418,Active,MonthlyMAX,MonthlyMAX,Installed,No WiMAX,Progress Muchokomori,"1609 Vambe Close, Houghton Park",263719674252,41.85.213.33,27.992,1,0.2,2.0994
+A6000,Inactive,Inactive,TeamMAX,Installed,Pending Decommission,Gaven Chifodya,"Level 5, 52-54 Pegasus House",263772676122,41.85.213.35,3.304,1,0.2,1.0738
+A2459,Active,MusheMAX,MusheMAX,Installed,Decommissioned,Nharira Cargo,"15B 6th Avenue, Parktown, Waterfalls",263772423575,41.85.213.36,41.96,2,0,10.9096
+A2378,Suspended,MonthlyMAX,Suspended,Installed,Decommissioned,Sakmatz,"706 Midlands close, Waterfalls",263772573476,41.85.213.38,2.388,2,0.7,-1.8308
+A2943,Active,MonthlyMAX,MonthlyMAX,Installed,Customer Owns,Worstake Engineers,"754 Cooleen Road, New Ardbennie",263773649126,41.85.213.39,243.992,7,0.2,30.499
+C900059,Active,SkyMAX,SkyMAX,Installed,Decommissioned,Powertech Eng/Masviba,96 Lytton Road Workington,263712800078,41.85.213.4,59.97,5,0.4,-11.994
+A2201,Active,SkyMAX,SkyMAX,Installed,Customer Owns,Adnan Hill,"14C 7th Avenue, Parktown",263772328210,41.85.213.40,78.304,2,0.2,29.364
+A2620,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Tuckvan,"1 Orme Road, New Ardbernie",263775884664,41.85.213.41,21.456,9,0.2,6.9732
+A2138 ,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Prisca Chinyamutangira,"30 Powell Rd, Waterfalls",263772747701,41.85.213.42,8.82,3,0,2.3814
+A2010,Active,TeamMax,TeamMax,Installed,Decommissioned,Calvin Mpofu,"8 Ruwa Avenue, Waterfalls",263712615589,41.85.213.44,10.86,3,0,5.1042
+C900004,Active,SkyMAX,SkyMAX,Installed,Pending Decommission,Bernstein Clothing,"1558 Orme Road, New Ardbennie",263712218760,41.85.213.45,143.7,3,0,68.976
+A409,Active,MusheMAX,MusheMAX,Installed,Customer Owns,KDV Bedding,"2 Craig Allen Rd, New Ardbennie",263773438009,41.85.213.46,839.43,3,0,218.2518
+A6439,Inactive,Inactive,Inactive,,,Utande Test - Ardbennie BTS,Ardbennie BTS,263772676122,41.85.213.47,97.264,4,0.8,-243.16
+A5577,Active,TeamMax,TeamMax,Installed,Pending Decommission,Lovemore Tsvangira,"16 Houghton Park Rd, Houghton ",263779039124,41.85.213.48,46.26,3,0,12.0276
+A2965,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Searover Investments,35 Highfield Road,263775387482,41.85.213.5,2.946,2,0.7,-2.2586
+5304840,Active,TeamMax,TeamMax,Installed,Decommissioned,Sibongile Munodawafa,"511 Houghton Park Rd, Waterfalls",263772954170,41.85.213.50,16.056,3,0.2,5.8203
+A2147,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Godfrey Marongwe,"1422 Picnic Park, Waterfalls",263771645592,41.85.213.51,21.744,3,0.2,6.795
+A2379,Active,MusheMAX,MusheMAX,Installed,Customer Owns,COMOTAKE - Walter Marasira,"1588 watts road, New Ardbennie",263773784717,41.85.213.52,66.284,2,0.8,-178.9668
+A8202,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Mr/Mrs Murudzwa,465 Kennard Road Houghton Park,263773624724,41.85.213.53,35.168,7,0.2,9.6712
+A8204,Active,MonthlyMAX,MonthlyMAX,Installed,No WiMAX,Tich Muvirimi,"1112 Odzani Crescent, Houghton Park",263772513814,41.85.213.55,444.768,4,0.2,44.4768
+A2097,Active,MonthlyMAX,MonthlyMAX,Installed,Pending Decommission,Thandeka Mpofu,37 Guilford Crescent Southerton,263774113074,41.85.213.56,83.92,4,0,5.8744
+A8416,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Tichaona Shepherd Mushake,"11 Flamboyant road, Lochinvar",263772853623,41.85.213.58,131.98,2,0,35.6346
+A8692,Inactive,TeamMAX,TeamMAX,Installed,No WiMAX,Dominic Dzotizey - Jonathan Dube,"1098 Inyangombe Close, Houghton Park",263715025554,41.85.213.59,15.92,4,0,7.4824
+A5587,Active,TeamMax,TeamMAX,Installed,Decommissioned,Simbarashe Munetsi,5 Nevit Road Cranborne,263772167250,41.85.213.6,52.29,9,0,16.2099
+A2460,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Waseema,92 Lytton Road Workington,263772687624,41.85.213.61,91.99,1,0,3.6796
+A8438,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Mrs Gwanzura,12 Tutbury Close Houghton Park,263719370057,41.85.213.14,233.86,2,0.45,-102.048
+A1718 ,Active,SkyMAX,SkyMAX,Installed,Customer Owns,Skinners Auto Repairs,Cnr Manchester&Brodie Street Southerton,263776344153,41.85.213.65,620.6145,3,0.45,-248.2458
+A27805,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Kevin Murinda,10641 Cooper Chadwick Road Southerton,263772466211,41.85.213.66,5.328,2,0.7,-3.552
+A5999,Suspended,TeamMax,TeamMax,Installed,Pending Decommission,Lennon Sigauke,"18029,New Stands, Milton Park",263776375837,41.85.213.67,258.072,3,0.2,0
+A2747,Active,MusheMAX,MusheMAX,Installed,Customer Owns,TRUCK-IT P/L ,"1 Saint Georges Street, Ardbennie",263773502892,41.85.213.68,617.976,3,0.2,-7.7247
+A2608,Active,TeamMAX,TeamMAX,Installed,No WiMAX,Never Ncube,Northwold Flats,263777288997,41.85.213.69,10.56,2,0,4.752
+A5690,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Petronella Chinogara,"14 Tixhall Close, Houghton Park",263778864446,41.85.213.7,20.37,3,0,6.9258
+A7403,Inactive,Inactive,TeamMax,Installed,Decommissioned,Richmore Mashiri,97 Brooks Drive Hillside,263772679923,41.85.213.70,221.55,3,0,6.6465
+A7616,Inactive,Inactive,TeamMax,Installed,Decommissioned,Cynthia Chaparadza,"5 Inversnaid Court,40 McChlery Avenue",263773111274,41.85.213.71,17.52,5,0.2,6.132
+A6098,Inactive,Inactive,TeamMax,Installed,Pending Decommission,Shingirai Matare,St Kitts Road,263773554769,41.85.213.73,1.624,2,0.8,-4.466
+A2493,Active,TeamMax,unlimited_test_package,Installed,Decommissioned,Charles Mashamba,1112 Sunningdale 3,263778818958,41.85.213.75,14.016,3,0.2,4.7304
+A7631,Active,MusheMAX,MusheMAX,Installed,Pending Decommission,Lovemore Sikhosana,1637 Nyere Close Houghton Park,263771030210,41.85.213.76,37.208,1,0.2,-7.4416
+A8519,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Steven Chiwota,1362 Njiva Close Houghton Park,263773384607,41.85.213.94,57.576,3,0.2,21.591
+A8230,Active,MusheMAX,MonthlyMAX,Installed,No WiMAX,Mr Nyamutswa,1062 Inyangombe Close,263772603064,41.85.213.77,725.84,4,0,210.4936
+A3212,Active,MonthlyMAX,MonthlyMAX,Installed,Customer Owns,Plaxedes Chizarura,21 Open Way Southerton,263773032048,41.85.213.79,8.82,2,0,4.0572
+A8191,Prospect,Prospect,MusheMAX,Installed,No WiMAX,Rodney Tamanikwa,"1600 Murapa Street, New Houghton Park",263783167854,41.85.213.8,5.98,1,0,1.5548
+A2089,Active,MonthlyMAX,MonthlyMAX,Installed,Customer Owns,Morganite/Ethel Chenga,50 Craster Road Southerton,263778736197,41.85.213.80,11.648,2,0.2,4.0768
+A6465,Active,MusheMAX,MusheMAX,Installed,Customer Owns,Effort Distributors,Shop 5 Craster Road Southerton,263772415313,41.85.213.81,18.176,4,0.2,5.9072
+A2845,Active,MonthlyMAX,MonthlyMAX,Installed,Customer Owns,Indra Mudzamba,6 Lewin Road Southerton,263774440899/Allan  0785691104,41.85.213.82,59.712,6,0.2,5.9712
+A8495,Active,MonthlyMAX,MonthlyMAX,Installed,No WiMAX,Kudzai Nyamugafata,"1056 Odzani Crescent, New H/Park",263775188239,41.85.213.84,24.84,3,0.2,8.694
+A8174,Active,SkyMAX,SkyMAX,Installed,No WiMAX,Llyod Teveraishe,"1103 Inyangombe Street, Houghton Park",263778297516,41.85.213.85,219.075,3,0.5,-131.445
+A2098,Terminated,Terminated,unlimited_test_package,Installed,Decommissioned,Paul Mhiripiri,"16205 3rd Street, Sunningdale 2",263772996935,41.85.213.86,4.89,1,0,2.0049
+A8244,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Tendai Gate,"1335 Batanai Close, Houghton Park",263712609662,41.85.213.89,15.992,1,0.2,0.9995
+A5931,Active,TeamMax,TeamMax,Installed,Pending Decommission,Shepherd Moyo,"1107 Mosi oa Tunya Drive, Houghton Park",263772869638,41.85.213.9,47.976,3,0.2,4.7976
+A2448,Active,MusheMAX,MonthlyMAX,Installed,Customer Owns,Jeremiah Chisale,1 Cherry Avenue Lochinvar,263773469741,41.85.213.90,7.56,3,0,3.0996
+A8232,Active,MusheMAX,MusheMAX,Installed,No WiMAX,Phiri,"1063 Nyangombe, Houghton Park",263773123253,41.85.213.92,24.56,2,0,11.5432
+A2901,Active,MonthlyMAX,SkyMAX,Installed,Decommissioned,Tilda Karizamimba,2 Mango Road Lochinvar,263772304478,41.85.213.93,12.96,2,0,4.1472
+A8295,Suspended,MusheMAX,Suspended,Installed,No WiMAX,Faith Mandivenga,8568 Probation Old Highfield,263733740050,41.85.213.96,647.84,8,0,168.4384
+A5932,Active,TeamMax,unlimited_test_package,Installed,Decommissioned,Peter Manjoro,"16387 15th Close, Sunningdale",263783732121,41.85.213.97,20.7,2,0,9.936
+masviba,Prospect,Prospect,MusheMAX,Installed,No WiMAX,Mrs Mangena,2 Cannock Close Houghton Park,263772956529,41.85.213.98,20.7,2,0,9.936
+A8430,Prospect,Prospect,,Installed,No WiMAX,Allen Jahwi,18 Leyland Road Ardbennie,263779889830,41.85.213.60,488.646,3,0.1,86.8704
+A8050,Lead,Lead,TeamMax,Installed,Customer Owns,Vimbai Tawha,"24 Albany Court, Cnr Fife/Blakiston, Hre",263772166491,41.85.213.16,5.56,2,0,1.4456
+,,Liquid LTE,Liquid LTE,Installed,No WiMAX,Mercy Nyamupingidza,,,,47.12,8,0,20.7328
+A8329,Prospect,Prospect,,Installed,No WiMAX,Eunice Meda,"RE 151 Bawtrey Close, Prospect",263773776160,41.85.213.74,25.92,5,0.2,9.396
+A8330,Active,SkyMAX,,Installed,No WiMAX,Lawrence Mhatiwa,"27 St Patricks, Hatfield",263785001402,41.85.213.99,53.424,3,0.2,4.6746
+A5549,Active,BizL,,Installed,Decommissioned,MDP,1416 Nelson Mandela Hurudza House,263733392768,41.85.213.62,1488.424,7,0.3,-297.6848
+A2077,Active,SkyMAX,SkyMAX,Installed,Customer Owns,Gilbert Mandozana,"36 Argyle Road, Avondale",263772294189,41.85.213.91,23.36,4,0.2,7.884
+A32197,Lead,Lead,unlimited_test_package,Installed,No WiMAX,Blessing Chimanga,18 Rutland court corner 4th and Tongogara,263772354742,41.85.213.13,39.98,2,0,13.5932
+A8109,Active,SkyMAX,SkyMAX,Installed,No WiMAX,Luis Maio,10 Orkney Road,263772358402,41.85.213.63,75.792,3,0.2,25.5798
+A5566,Active,TeamMax, ,Installed,,Stanford Chabaya,"53 Spruit Road North, Hatfield",263772594735,41.85.213.78,49.96,2,0,9.4924
+A5835,Inactive,TeamMax,TeamMax,Installed,,Wellington Mugadza,,263774097952,41.85.213.57,12.96,2,0,6.2208
+A1873,Inactive,Inactive,UtandeL3.15M,Prospective Sale,,Rodney Mumanyi,3524 Mainway meadows,,41.85.213.32,35.91,3,0,9.6957
+,,,SkyMAX,Installed,,ARDA ARDA,,,41.85.213.37,179.95,5,0,37.7895
+A25805,Suspended,MonthlyMAX,MonthlyMAX,Installed,,Quick Click Internet,12 Kwame Nkrumah Avenue,263777462360,41.85.213.49,1199.976,3,0.2,434.9913
+,,,MonthlyMAX,Installed,,Chemonics Mataga,,,41.85.213.72,27.15,5,0,13.3035
+A8393,Active,SuperMAX,unlimited_test_package,Installed,,Rogiza Chinyanga,98B Seke Road,,41.85.213.83,1004.024,7,0.2,-112.9527
+A8517,Active,SuperMAX,SuperMAX,Installed,No WiMAX,Senga Bay,"80 Woolwich, Willowvale",,41.85.213.64,9.68,1,0,4.6464
+A5556,Active,MegaMAX,,Installed,,ONLINE LOGISTICS,"23 Buckingham Road, Eastlea",263778194416,41.85.213.11,28.35,9,0,13.608
+A2807,Active,,SuperMAX,Installed,,First Brands,"8 George Ave, Msasa",263772145132,41.85.213.100,55.98,1,0,27.4302
+,,TeamMax,,Installed,,Douglas Chitongo,Shawasha Hills,,41.85.213.34,1336.829,13,0.15,31.4548
+,,,,,,1 Faulty-In Stores,,,,113.568,2,0.2,-18.4548
+A7408 ,,,,Installed,,Mustafa Sachak,,,,139.86,7,0,65.7342
+A8516,Suspended,SuperMAX,SuperMAX,Installed,,Global Hardware,,263772254645,,307.136,4,0.2,26.8744
+A8035,Active,,,Pending Decommission,,Selestino Chari,"1378 Nhuta Close, Houghton Park",263773423380,41.85.213.54,95.92,8,0,25.8984
